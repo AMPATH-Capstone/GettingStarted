@@ -6,7 +6,7 @@ In short, Github is a web-based platform used for version control. It is helpful
 ### What is a Repository? 
 A repository (usually abbreviated to “repo”) is a location where all the files for a particular project are stored. Each project has its own repo, and you can access it with a unique URL. 
 
-For the purposes of our Github, we will have the following repos: 
+For the purposes of our Github, we will have the following repos (this list can be updated as we have identified working groups): 
 
 - 
 - 
