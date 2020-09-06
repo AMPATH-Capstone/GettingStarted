@@ -19,3 +19,5 @@ _Workstream leads will be listed here_
 
 ### How to use Github 
 For now, you can explore the online version. If you are interested, you can explore more about Git & Github and how to use it with R [here](https://happygitwithr.com/rstudio-git-github.html). 
+
+---
