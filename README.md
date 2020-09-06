@@ -8,9 +8,10 @@ A repository (usually abbreviated to “repo”) is a location where all the fil
 
 For the purposes of our Github, we will have the following repos _(this list can be updated as we have identified working groups)_ : 
 
-- 
-- 
-- 
+- [Data Prep](https://github.com/AMPATH-Capstone/DataPrep)
+- [Workstream One](https://github.com/AMPATH-Capstone/WorkstreamOne)
+- [Workstream Two](https://github.com/AMPATH-Capstone/WorkstreamTwo)
+- [Workstream Three](https://github.com/AMPATH-Capstone/WorkstreamThree)
 
 
 
